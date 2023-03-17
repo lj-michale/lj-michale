@@ -61,9 +61,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
--->
+<!-- ### - Blogs 🌱 -->
 <!--
 <p align="center">
   <a href="https://dev.to/hemant">
