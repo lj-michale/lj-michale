@@ -42,7 +42,6 @@
   <h4> Tech Stack | Competitive Programming </h4>
 </p>
 
-<!-- ####################################### 数据统计分析 ############################################ -->
 <!-- 仓库状态统计 -->
 <p align="left" >
  <a href="https://github.com/lj-michale/github-readme-stats"> 
