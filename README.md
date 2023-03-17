@@ -43,7 +43,7 @@
   <h4> Tech Stack | Competitive Programming </h4>
 </p>
 
-<!-- 仓库状态统计  -->
+<!-- 仓库状态统计 -->
 <p align="left" >
  <a href="https://github.com/lj-michale/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=lj-michale&&show_icons=true&theme=radical"/>
@@ -51,7 +51,7 @@
 </p>
 <br />
 
-<!-- 主页访问量统计  -->
+<!-- 主页访问量统计 -->
 <p align="left" >
  <a href="https://github.com/lj-michale/github-readme-stats"> 
     <img  src="![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg"/>
