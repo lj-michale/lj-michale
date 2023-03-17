@@ -84,7 +84,7 @@
     <!-- 仓库状态统计 -->
     <p align="left" >
      <a href="https://github.com/lj-michale/github-readme-stats"> 
-        <img  src="https://github-readme-stats.vercel.app/api?username=lj-michale&&show_icons=true&theme=radical"/>
+        <img  src="https://github-readme-stats.vercel.app/api?username=LJ-Michale&&show_icons=true&theme=radical"/>
      </a>
     </p>
 
