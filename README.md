@@ -22,12 +22,6 @@
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="lj.michale github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
 </p>
 
-<br />
- 
-<h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-</h5>
-  
 <!-- ### Introduce Myself ### -->
 <p align="left">
   <h3> I'm 8 years old Tech-Stack developer from China.</h3>
