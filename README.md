@@ -49,7 +49,6 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=lj-michale&&show_icons=true&theme=radical"/>
  </a>
 </p>
-<br />
 
 <!-- 主页访问量统计 -->
 <p align="left" >
@@ -57,7 +56,6 @@
     <img  src="![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg"/>
  </a>
 </p>
-<br />
 
 <!-- 常用语言占比统计 -->
 <p align="left" >
@@ -65,7 +63,6 @@
     <img  src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj-michale&layout=compact&theme=tokyonight)"/>
  </a>
 </p>
-<br />
 
 <!-- Github活动统计图 -->
 <p align="left" >
