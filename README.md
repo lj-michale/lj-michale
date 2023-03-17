@@ -42,6 +42,7 @@
 <p align="center">
   <h4> Tech Stack | Competitive Programming </h4>
 </p>
+
 <!-- center  -->
 <p align="center" >
  <a href="https://github.com/lj.michale/github-readme-stats"> 
