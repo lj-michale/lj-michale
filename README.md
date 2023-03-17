@@ -46,6 +46,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj-michale&layout=compact&theme=tokyonight)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=lj-michale&theme=dracula)
+
 <!-- 主页访问量统计 -->
 You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
@@ -58,23 +60,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.s
 
 <br />
 
-<!-- 常用语言占比统计 -->
-<p align="left" >
- <a href="https://github.com/lj-michale/github-readme-stats"> 
-    <img  src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj-michale&layout=compact&theme=tokyonight)"/>
- </a>
-</p>
-
-<br />
-
-<!-- Github活动统计图 -->
-<p align="left" >
- <a href="https://github.com/lj-michale/github-readme-stats"> 
-    <img  src="![Visitor Count](![](https://github-readme-activity-graph.cyclic.app/graph?username=lj-michale&theme=dracula)"/>
- </a>
-</p>
-
-<br />
 
 ### - Languages and Tools...
 <p align="left">
