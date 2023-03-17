@@ -60,9 +60,20 @@
 <br />
 
 <!-- 常用语言占比统计 -->
+<p align="left" >
+ <a href="https://github.com/lj-michale/github-readme-stats"> 
+    <img  src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj-michale&layout=compact&theme=tokyonight)"/>
+ </a>
+</p>
+<br />
 
 <!-- Github活动统计图 -->
-
+<p align="left" >
+ <a href="https://github.com/lj-michale/github-readme-stats"> 
+    <img  src="![Visitor Count](![](https://github-readme-activity-graph.cyclic.app/graph?username=lj-michale&theme=dracula)"/>
+ </a>
+</p>
+<br />
 
 ### - Languages and Tools...
 <p align="center">
