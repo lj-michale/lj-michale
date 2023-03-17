@@ -41,7 +41,6 @@
 - All About living life at its best.
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
 
-
 <p align="left">
   <h4> Tech Stack | Competitive Programming </h4>
 </p>
