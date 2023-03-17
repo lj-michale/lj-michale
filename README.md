@@ -32,8 +32,8 @@
   <h3> I'm 8 years old Tech-Stack developer from China.</h3>
 </p>
 
-- 🥀 Learning Java、Scala、Python & SQL
-- <i>with Javascript, Typescript, React and 69 others.</i>
+- 🥀 Learning Java、Scala、Python、Shell & SQL
+- <i>with Flink, Spark, Hadoop, Tensorflow, SpringCloud Alibaba and others.</i>
 - 🔭 SpaceX FanBoi, die for space😼
 - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
 - I do fullstack and a bit of everything :heart:
