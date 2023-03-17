@@ -27,7 +27,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 8 years old Full-Stack developer from China.</h3>
+  <h3> I'm 8 years old Tech-Stack developer from China.</h3>
 </p>
 
 - 🥀 Learning Java、Scala、Python & SQL
@@ -44,7 +44,7 @@
 <!-- center  -->
 <p align="center" >
  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=lj.michale&&show_icons=true&theme=radical"/>
  </a>
 </p>
 <br />
