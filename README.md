@@ -45,6 +45,9 @@
   <h4> Tech Stack | Competitive Programming </h4>
 </p>
 
+<!-- 主页访问量统计 -->
+You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
 <!-- 仓库状态统计 -->
 <p align="left" >
  <a href="https://github.com/lj-michale/github-readme-stats"> 
@@ -54,12 +57,7 @@
 
 <br />
 
-<!-- 主页访问量统计 -->
-<p align="left" >
-![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg
-</p>
 
-<br />
 
 <!-- 常用语言占比统计 -->
 <p align="left" >
