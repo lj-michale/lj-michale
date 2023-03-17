@@ -45,7 +45,6 @@
   <h4> Tech Stack | Competitive Programming </h4>
 </p>
 
-
 #### Languages and Tools...
 <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
