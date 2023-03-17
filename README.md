@@ -49,13 +49,6 @@
 <!-- 主页访问量统计 -->
 You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-<!-- 仓库状态统计 -->
-<p align="left" >
- <a href="https://github.com/lj-michale/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=lj-michale&&show_icons=true&theme=radical"/>
- </a>
-</p>
-
 <br />
 
 
@@ -89,6 +82,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.s
 <p align="center">Made with ❤ in China</p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=lj-michale&theme=dracula)
+
+### - Data Statistics
+- [仓库状态统计](#仓库状态统计)
+<!-- 仓库状态统计 -->
+<p align="left" >
+ <a href="https://github.com/lj-michale/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=lj-michale&&show_icons=true&theme=radical"/>
+ </a>
+</p>
+
+- [Github活动统计图](#Github活动统计图)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=LJ-Michale&theme=dracula)
 
 
