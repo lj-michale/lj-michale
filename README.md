@@ -56,9 +56,7 @@
 
 <!-- 主页访问量统计 -->
 <p align="left" >
- <a href="https://github.com/lj-michale/github-readme-stats"> 
-    <img  src="![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg"/>
- </a>
+![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg
 </p>
 
 <br />
