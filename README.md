@@ -80,7 +80,7 @@
     <!-- 主页访问量统计 -->
     You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-- [仓库状态统计](#仓库状态统计)
+- [仓库状态统计](#仓库状态统计)                                                                                                       
     <!-- 仓库状态统计 -->
     <p align="left" >
      <a href="https://github.com/lj-michale/github-readme-stats"> 
@@ -88,10 +88,10 @@
      </a>
     </p>
 
-- [常用语言占比统计](#常用语言占比统计)
+- [常用语言占比统计](#常用语言占比统计)                                                                                                                                                         
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj-michale&layout=compact&theme=tokyonight)
 
-- [Github活动统计图](#Github活动统计图)
+- [Github活动统计图](#Github活动统计图)                                                                                                                             
     ![](https://github-readme-activity-graph.cyclic.app/graph?username=LJ-Michale&theme=dracula)
 
 
