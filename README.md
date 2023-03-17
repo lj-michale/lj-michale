@@ -93,5 +93,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.s
   <img src="https://github.com/lj-michale/lj-michale/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-
-
