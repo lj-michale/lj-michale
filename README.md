@@ -103,15 +103,6 @@
  ### - What i do
 
 
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-
 <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
