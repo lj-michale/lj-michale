@@ -109,11 +109,11 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤ in China</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+    <img src="https://github.com/lj-michale/lj-michale/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
