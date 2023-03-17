@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
-   
+
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 lj.michale | 💻 Full Stack Developer | 🛸 China<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -20,16 +20,19 @@
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
    <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
 </p>
+
+<br />
  
 <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
 </h5>
   
-<br />
+ 
 <!-- Introduce Myself -->
 <p align="left">
   <h3> I'm 8 years old Tech-Stack developer from China.</h3>
 </p>
+
 - 🥀 Learning Java、Scala、Python & SQL
 - <i>with Javascript, Typescript, React and 69 others.</i>
 - 🔭 SpaceX FanBoi, die for space😼
@@ -49,12 +52,16 @@
  </a>
 </p>
 
+<br />
+
 <!-- 主页访问量统计 -->
 <p align="left" >
  <a href="https://github.com/lj-michale/github-readme-stats"> 
     <img  src="![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg"/>
  </a>
 </p>
+
+<br />
 
 <!-- 常用语言占比统计 -->
 <p align="left" >
@@ -63,12 +70,15 @@
  </a>
 </p>
 
+<br />
+
 <!-- Github活动统计图 -->
 <p align="left" >
  <a href="https://github.com/lj-michale/github-readme-stats"> 
     <img  src="![Visitor Count](![](https://github-readme-activity-graph.cyclic.app/graph?username=lj-michale&theme=dracula)"/>
  </a>
 </p>
+
 <br />
 
 ### - Languages and Tools...
