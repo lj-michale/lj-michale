@@ -38,7 +38,7 @@
 - All About living life at its best.
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
-<p align="center">
+<p align="left">
   <h4> Tech Stack | Competitive Programming </h4>
 </p>
 
@@ -75,7 +75,7 @@
 <br />
 
 ### - Languages and Tools...
-<p align="center">
+<p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -88,7 +88,7 @@
 
 <!-- ### - Blogs 🌱 -->
 <!--
-<p align="center">
+<p align="left">
   <a href="https://dev.to/hemant">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
   </a>
