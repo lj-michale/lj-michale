@@ -45,8 +45,8 @@
 
 <!-- center  -->
 <p align="center" >
- <a href="https://github.com/lj.michale/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=lj.michale&&show_icons=true&theme=radical"/>
+ <a href="https://github.com/lj-michale/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=lj-michale&&show_icons=true&theme=radical"/>
  </a>
 </p>
 
