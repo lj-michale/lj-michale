@@ -27,7 +27,6 @@
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
 </h5>
   
-
 <!-- Introduce Myself -->
 <p align="left">
   <h3> I'm 8 years old Tech-Stack developer from China.</h3>
