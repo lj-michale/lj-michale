@@ -40,11 +40,11 @@
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
 <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+  <h4> Tech Stack | Competitive Programming </h4>
 </p>
 <!-- center  -->
 <p align="center" >
- <a href="https://github.com/anuraghazra/github-readme-stats"> 
+ <a href="https://github.com/lj.michale/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=lj.michale&&show_icons=true&theme=radical"/>
  </a>
 </p>
