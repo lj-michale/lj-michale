@@ -28,10 +28,8 @@
 </p>
 
 - 🥀 Learning Java、Scala、Python、Shell & SQL                   
-- <i>With Flink, Spark, Hadoop, Tensorflow, SpringCloud Alibaba and others.</i>
-- 🔭 SpaceX FanBoi, die for space😼
-- 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
-- I do fullstack and a bit of everything :heart:
+- <i>With Doubbo\SpringCloud Alibaba\Quarkus、Flink\Spark\Hadoop、Tensorflow\Pytorch、Kubernetes and others.</i>
+- 🔭 Work Experience: VIPS、易订货、Aurora、CTG
 - All About living life at its best.
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
 
