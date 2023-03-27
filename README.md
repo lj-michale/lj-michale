@@ -28,7 +28,7 @@
 </p>
 
 - 🥀 Learning Java、Scala、Python、Shell & SQL                   
-- <i>With Doubbo\SpringCloud Alibaba\Quarkus\Antlr、Flink\Spark\Hadoop\Doris\Pulsar、Tensorflow\Pytorch、Kubernetes and others.</i>
+- <i>With Doubbo\SpringCloud Alibaba\Quarkus\Antlr、Flink\Spark\Hadoop\Doris\Pulsar\Iceberg、Tensorflow\Pytorch、Kubernetes and others.</i>
 - 🔭 Work Experience: VIPS、易订货、Aurora、CTG
 - All About living life at its best.
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
