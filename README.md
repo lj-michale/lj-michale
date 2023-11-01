@@ -1,5 +1,4 @@
 
-#### Basic Introduction
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/lj-michale">LJ.Michale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    <img src="https://pronoun.cyou/x/y?subject=LJ&object=Michale&height=20"> 
@@ -54,24 +53,7 @@
 <h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
 
 <h2 align="center">💙 Github Data Statistics</h2>
-
-- [主页访问量统计](#主页访问量统计)
-    <!-- 主页访问量统计 -->
-  You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
-- [仓库状态统计](#仓库状态统计)                                                                                                       
-    <!-- 仓库状态统计 -->
-    <p align="left" >
-     <a href="https://github.com/lj-michale/github-readme-stats"> 
-        <img  src="https://github-readme-stats.vercel.app/api?username=LJ-Michale&&show_icons=true&theme=radical"/>
-     </a>
-    </p>
-
-- [常用语言占比统计](#常用语言占比统计)                                                                                                                                                         
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj-michale&layout=compact&theme=tokyonight)
-
-- [Github活动统计图](#Github活动统计图)                                                                                                                             
-    ![](https://github-readme-activity-graph.cyclic.app/graph?username=LJ-Michale&theme=dracula)
-
+<div align="center"> <img src="https://metrics.lecoq.io/lj-michale?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lj-michale&theme=xcode" /> </div>
 
 
