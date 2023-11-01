@@ -54,6 +54,5 @@
 
 <h2 align="center">💙 Github Data Statistics</h2>
 <div align="center"> <img src="https://metrics.lecoq.io/lj-michale?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lj-michale&theme=xcode" /> </div>
 
 
