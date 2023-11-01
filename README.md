@@ -17,11 +17,6 @@
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 LJ.Michale | 💻 Tech Stack Developer | 🛸 China<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<p align="center">
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="lj.michale github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-</p>
-
 <!-- ### Introduce Myself ### -->
 <p align="left">
   <h3> I'm 8 years old Tech-Stack developer from China.</h3>
@@ -33,21 +28,13 @@
 - All About living life at its best.
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
 
+<h2 align="center">🎀 Languages and Tools</h2>
 <p align="left">
-  <h4> Tech Stack | Competitive Programming </h4>
+  <h4> Tech Stack | Skills and Tools</h4>
 </p>
-
-#### Languages and Tools...
-<p align="left">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-</p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=spring,java,kotlin,scala,kafka,redis,cpp,cs,py,flask,rabbitmq,go,prometheus,regex,html,css,js,nodejs,react,redux,ts,vue,linux,git,kubernetes,docker,rabbit" />
+</a>
 
 <!-- ### - Blogs 🌱 -->
 <!--
@@ -58,7 +45,8 @@
 </p>
 -->
 
-#### What I Do     
+
+#### What I Do    
 <h2 align="center">🤝 Support</h2>
   <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
   <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
