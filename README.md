@@ -26,7 +26,7 @@
 - <i>With Doubbo\SpringCloud Alibaba\Quarkus\Antlr\Spring-Cloud-Tencent、Flink\Spark\Hadoop\Doris\Pulsar\Iceberg、Tensorflow\Pytorch、Kubernetes and others.</i>
 - 🔭 Work Experience: VIPS、易订货、Aurora、CTG
 - All About living life at its best.
-- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/LuoJie577250)
 
 <h2 align="center">🎀 Languages and Tools</h2>
 <p align="left">
