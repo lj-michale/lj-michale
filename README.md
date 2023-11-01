@@ -51,9 +51,10 @@
   <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤ in China</p>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
 
 <h2 align="center">💙 Github Data Statistics</h2>
+
 - [主页访问量统计](#主页访问量统计)
     <!-- 主页访问量统计 -->
     You are my ![Visitor Count](https://profile-counter.glitch.me/lj-michale/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
