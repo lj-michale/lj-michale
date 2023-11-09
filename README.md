@@ -32,7 +32,7 @@
   <h4> Tech Stack | Skills and Tools</h4>
 </p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=spring,java,kotlin,scala,kafka,redis,cpp,cs,py,flask,rabbitmq,go,prometheus,regex,html,css,js,nodejs,react,redux,ts,vue,linux,git,kubernetes,docker,rabbit" />
+<img src="https://skillicons.dev/icons?i=spring,java,kotlin,scala,kafka，hadoop,hudi,spark,flink,dolphinscheduler,iceberg,paimon,secretflow,redis,cpp,cs,py,flask,rabbitmq,go,prometheus,regex,html,css,js,nodejs,react,redux,ts,vue,linux,git,kubernetes,docker,rabbit" />
 </a>
 
 <!-- ### - Blogs 🌱 -->
