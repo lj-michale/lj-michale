@@ -18,7 +18,7 @@
 
 <!-- ### Introduce Myself ### -->
 <p align="left">
-  <h4> I'm 8 years old Tech-Stack developer from China.</h4>
+   I'm 8 years old Tech-Stack developer from China.
 </p>
 
 - 🥀 Learning Java、Scala、Python、Shell & SQL                   
@@ -29,12 +29,13 @@
 
 <h2 align="center">🎀 Languages and Tools</h2>
 <p align="left">
-  <h4> Tech Stack | Skills and Tools</h4>
+  Tech Stack | Skills and Tools
 </p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=spring,java,kotlin,scala,kafka，hadoop,hudi,spark,flink,dolphinscheduler,iceberg,paimon,secretflow,redis,cpp,cs,py,flask,rabbitmq,go,prometheus,regex,html,css,js,nodejs,react,redux,ts,vue,linux,git,kubernetes,docker,rabbit" />
-</a>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,java,kotlin,scala,kafka,tensorflow,aws,redis,cpp,cs,py,flask,rabbitmq,go,prometheus,regex,html,css,js,nodejs,react,redux,ts,vue,linux,git,kubernetes,docker,rabbit" />
+  </a>
+</p>
 <!-- ### - Blogs 🌱 -->
 <!--
 <p align="left">
@@ -44,11 +45,9 @@
 </p>
 -->
 
-
-<h2 align="center">🤝 Support</h2>
-  <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-  <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
+<p align="center">🤝 Support<p>
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 <p align="center">Made with ❤ in China</p>
 <h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
 
