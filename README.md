@@ -52,6 +52,4 @@
 <h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
 
 <h2 align="center">💙 Github Data Statistics</h2>
-<div align="center"> <img src="https://metrics.lecoq.io/lj-michale?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
-
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lj-michale&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"> </div>
